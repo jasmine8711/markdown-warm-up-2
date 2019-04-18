@@ -14,8 +14,8 @@ Let's have a look at our website!
 
 # 4.Why does this website need an update / complete makeover ?
 ---
-1. Extremely _messy_.
-1. Ugly color choice. 
+1. Extremely _messy_. Is it appropriate to use "extreme" in a professional context?
+1. Ugly color choice. Shouldn't we say it's unpleasant to look at?
 *Red* and Green?
 ![websitepic2](4.png)
 1. Font size is too small.
